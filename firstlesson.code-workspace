@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../../xampp/htdocs/firstlesson"
+		},
+		{
+			"path": "../../xampp/htdocs/ProjectWeb"
+		},
+		{
+			"path": "../../Practice"
+		},
+		{
+			"path": "../../xampp/htdocs/IoT"
+		},
+		{
+			"path": "../../Cloud computing/Test Code"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Tài liệu/vegefoods"
+		},
+		{
+			"path": "../../Tài liệu/startbootstrap-sb-admin-2-gh-pages"
+		}
+	],
+	"settings": {}
+}
